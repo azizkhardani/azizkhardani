@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤝 I’m seeking help with **Advanced Python & JS frameworks**
 - 💬 Ask me about **Programming, GitHub Projects, or anything tech**
-- 📫 How to reach me: **aziz.khardani@example.com**
+- 📫 How to reach me: **khardaniaziz@example.com**
 - ⚡ Fun fact: **Coding late at night makes ideas magically appear**
 
 ---
